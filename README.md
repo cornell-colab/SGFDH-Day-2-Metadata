@@ -13,3 +13,7 @@ Some questions to consider:
 * What metadata might be useful or necessary for you to perform the anlysis and/or create the interface that you plan?
 * What do you wish you understood better?
 * Anything you learned today that was useful?
+
+### Prepare for Tomorrow
+
+Check out the Day 3 Repository for list of readings and a link to download AntConc.d
