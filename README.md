@@ -16,4 +16,4 @@ Some questions to consider:
 
 ### Prepare for Tomorrow
 
-Check out the Day 3 Repository for list of readings and a link to download AntConc.d
+Check out the Day 3 Repository for list of readings and a link to download AntConc.
