@@ -3,6 +3,8 @@ Metadata Librarian Jenn Colt will join us for this discussion.
 
 Here's a list of [links and resources](https://www.zotero.org/groups/2192925/dhmetadata2018/items) (in a Zotero page) that Jenn references.
 
+You can download her PowerPoint presentation from the Day 2 repository. 
+
 ### Daily Comment
 
 Please post a reflection on something you learned today or that you would still like to learn. 
